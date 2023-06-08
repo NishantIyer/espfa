@@ -1,6 +1,6 @@
-# ESP32 Local Port Forwarder
+# ESP32 Port Forwarding Accelerator by Nishant Iyer
 
-# ESP32 Local Port Forwarder
+# ESPFA
 
 This is a firmware to use the ESP32 as Port Forwarder on the same network. The binary
 can be installed as described way below.
@@ -502,3 +502,7 @@ Line editing and history features are disabled.
 On Windows, try using Putty instead.
 esp32>
 ```
+
+
+### BY Nishant Iyer
+- Contact - nishant.iyer62@gmail.com
